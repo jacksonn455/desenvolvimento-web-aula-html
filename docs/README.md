@@ -17,4 +17,4 @@ Programa para a Matéria de Desenvolvimento Web
   | :---: |
 
 --------------------
- ![](https://github.com/jacksonn455/Desenvolvimento-web/blob/master/assets/images/page.png)
+ ![](https://github.com/jacksonn455/desenvolvimento-web-aula-html/blob/master/assets/images/page.png)
